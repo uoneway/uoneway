@@ -4,4 +4,6 @@
 - :couple: I love to think and talk about ideas to change the world for the better, and believe the power of `link`, `diversity`, and `community`.
 - :pushpin: I'm interested in `daily learning`, `community-based learning`, `teenagers` and `GNN`
 
+[![Uoneway's github stats](https://github-readme-stats.vercel.app/api?username=uoneway)](https://github.com/anuraghazra/github-readme-stats)
+
 
