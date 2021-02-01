@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Hangil :laughing:
 - 📰 I am most interested in NLP, especially in `summarization`.
 - 👫 I believe in the power of `community` being made up of `diverse` people and knowledge.
-- 🏁 Through this, I want to redefine the way of daily learning.
+- 🏁 Through these, I want to redefine the way of daily learning.
 - 📌 `NLP`, `(update, multi-document) summarization`, `daily learning`, `community-based learning`, `diversity`, `network`, `GNN`, `teenagers`, `media`
 
 <!--
