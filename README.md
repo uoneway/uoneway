@@ -15,6 +15,10 @@ asdasfsdfsdfsd
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uoneway&repo=On-the-spot-Translator)](https://github.com/uoneway/On-the-spot-Translator)
 
 
+- sdfsdf
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uoneway&repo=On-the-spot-Translator)](https://github.com/uoneway/On-the-spot-Translator)
+- sdfdsf
+
 <!--
 ![Uoneway's github stats](https://github-readme-stats.vercel.app/api?username=uoneway&hide_title=True&count_private=True&line_height=20&show_icons=true)
 -->
