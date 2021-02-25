@@ -16,7 +16,9 @@ asdasfsdfsdfsd
 
 
 - sdfsdf
+- 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uoneway&repo=On-the-spot-Translator)](https://github.com/uoneway/On-the-spot-Translator)
+
 - sdfdsf
 
 <!--
