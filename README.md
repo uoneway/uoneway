@@ -3,7 +3,6 @@
 - 👫 I believe in the power of `community` being made up of `diverse` people and knowledge.
 - 🏁 Through these, I want to redefine the way of daily learning.
 - **🎮 Interest**: `(update, multi-document) summarization` , `daily learning`, `community-based learning`, `network`, `diversity`,  `teenagers`, `media`
-
 - 🛠 **Skill Set**: `NLP`, `Data analysis`,  `Python`, `Tensorflow`, `SQL` , `Regular expression`
     
 <!--
